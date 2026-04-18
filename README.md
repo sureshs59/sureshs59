@@ -104,7 +104,6 @@ open_to    : AI Engineer · ML Engineer · Full-Stack AI · Backend + AI hybrid 
 ---
 
 ## 📌 Featured Projects
-
 <div align="center">
 
 ### 🤖 AI Chatbot with Conversational Memory
@@ -120,6 +119,26 @@ Status  : 🔨 In Progress
 ```
 
 **What it does:** A production-ready chatbot backend that remembers conversation context across multiple turns — not just a one-shot Q&A. Built with FastAPI for high-performance async serving and OpenAI's GPT models for natural language understanding.
+
+---
+
+<div align="center">
+
+### 💰 Expense Tracker (Full Stack with AI)
+🔗 https://github.com/sureshs59/smart-expense-ai-platform
+> *Completed*
+</div>
+
+```
+- Built using **Angular + Spring Boot + Python**
+- Stack   : Python · FastAPI · OpenAI API
+- Supports **Add / Edit / Delete expenses**
+- Visual dashboards for:
+  - 📊 Weekly trends  
+  - 📈 Monthly spending  
+- Clean UI + REST API integration
+Status   : ✅ Completed
+```
 
 ---
 
