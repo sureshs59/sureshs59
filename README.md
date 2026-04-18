@@ -3,10 +3,10 @@
 <h3 align="center">Senior Software Engineer | Java | Cloud | Microservices | Transitioning to AI/ML</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/suresh-sunuguri">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:mail2sunuguri.suresh@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
   </a>
 </p>
